@@ -1,0 +1,33 @@
+.friendLi {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  box-shadow: 4px 4px 2px 2px rgb(118, 117, 117);
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 10px 5px 10px 5px;
+}
+.status {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: gray;
+}
+.onlineGreen {
+  background-color: green;
+}
+
+.avatar {
+  width: 80px;
+  border-radius: 50%;
+  border: 3px solid grey;
+}
+.textName {
+  width: 200px;
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}

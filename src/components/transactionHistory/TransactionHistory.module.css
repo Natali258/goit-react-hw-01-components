@@ -1,0 +1,16 @@
+.transactionHistory {
+  width: 380px;
+  height: 100%;
+  border: none;
+  box-shadow: 4px 4px 2px 2px rgb(118, 117, 117);
+  background-color: aliceblue;
+  border-radius: 15px;
+  padding: 10px 0 10px 0;
+}
+.tabList {
+  background-color: grey;
+  height: 40px;
+}
+.transactionList {
+  text-align: center;
+}
